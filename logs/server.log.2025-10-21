@@ -1,0 +1,143 @@
+2025-10-21T09:02:16.096091Z  INFO Server running...
+2025-10-21T09:02:26.348493Z  INFO info="Worker 0 got a job, executing"
+2025-10-21T09:02:26.348601Z  INFO info="Worker 3 got a job, executing"
+2025-10-21T09:02:26.348770Z  INFO http{method=GET path=/ client_ip=192.168.2.173}: Request
+2025-10-21T09:02:26.361079Z  INFO http{method=GET path=/ client_ip=192.168.2.173}: Reponse status_line=HTTP/1.1 200 OK
+2025-10-21T09:02:26.748342Z  INFO info="Worker 2 got a job, executing"
+2025-10-21T09:02:26.748380Z  INFO http{method=GET path=/ client_ip=192.168.2.173}: Request
+2025-10-21T09:02:26.748615Z  INFO http{method=GET path=/ client_ip=192.168.2.173}: Reponse status_line=HTTP/1.1 200 OK
+2025-10-21T09:02:26.891421Z  INFO info="Worker 1 got a job, executing"
+2025-10-21T09:02:26.891520Z  INFO http{method=GET path=/ client_ip=192.168.2.173}: Request
+2025-10-21T09:02:26.891743Z  INFO http{method=GET path=/ client_ip=192.168.2.173}: Reponse status_line=HTTP/1.1 200 OK
+2025-10-21T09:02:27.233833Z  INFO info="Worker 0 got a job, executing"
+2025-10-21T09:02:27.233875Z  INFO http{method=GET path=/ client_ip=192.168.2.173}: Request
+2025-10-21T09:02:27.234133Z  INFO http{method=GET path=/ client_ip=192.168.2.173}: Reponse status_line=HTTP/1.1 200 OK
+2025-10-21T09:02:27.426925Z  INFO info="Worker 3 got a job, executing"
+2025-10-21T09:02:27.426943Z  INFO http{method=GET path=/ client_ip=192.168.2.173}: Request
+2025-10-21T09:02:27.427166Z  INFO http{method=GET path=/ client_ip=192.168.2.173}: Reponse status_line=HTTP/1.1 200 OK
+2025-10-21T09:02:27.561474Z  INFO info="Worker 2 got a job, executing"
+2025-10-21T09:02:27.561524Z  INFO http{method=GET path=/ client_ip=192.168.2.173}: Request
+2025-10-21T09:02:27.561700Z  INFO http{method=GET path=/ client_ip=192.168.2.173}: Reponse status_line=HTTP/1.1 200 OK
+2025-10-21T09:02:27.705994Z  INFO info="Worker 1 got a job, executing"
+2025-10-21T09:02:27.706034Z  INFO http{method=GET path=/ client_ip=192.168.2.173}: Request
+2025-10-21T09:02:27.706239Z  INFO http{method=GET path=/ client_ip=192.168.2.173}: Reponse status_line=HTTP/1.1 200 OK
+2025-10-21T09:02:27.881671Z  INFO http{method=GET path=/ client_ip=192.168.2.173}: Request
+2025-10-21T09:02:27.881670Z  INFO info="Worker 0 got a job, executing"
+2025-10-21T09:02:27.881846Z  INFO http{method=GET path=/ client_ip=192.168.2.173}: Reponse status_line=HTTP/1.1 200 OK
+2025-10-21T09:02:43.916682Z  INFO info="Worker 3 got a job, executing"
+2025-10-21T09:02:43.916670Z  INFO http{method=GET path=//// client_ip=192.168.2.173}: Request
+2025-10-21T09:02:43.932643Z  INFO http{method=GET path=//// client_ip=192.168.2.173}: Reponse status_line=HTTP/1.1 404 NOT FOUND
+2025-10-21T09:02:55.837691Z  INFO info="Worker 2 got a job, executing"
+2025-10-21T09:02:55.837750Z  INFO http{method=GET path=/about.html client_ip=192.168.2.173}: Request
+2025-10-21T09:02:55.838007Z  INFO http{method=GET path=/about.html client_ip=192.168.2.173}: Reponse status_line=HTTP/1.1 404 NOT FOUND
+2025-10-21T09:03:00.171552Z  INFO info="Worker 1 got a job, executing"
+2025-10-21T09:03:00.171612Z  INFO http{method=GET path=/about.html client_ip=192.168.2.173}: Request
+2025-10-21T09:03:00.171796Z  INFO http{method=GET path=/about.html client_ip=192.168.2.173}: Reponse status_line=HTTP/1.1 404 NOT FOUND
+2025-10-21T09:03:00.329166Z  INFO info="Worker 0 got a job, executing"
+2025-10-21T09:03:00.329288Z  INFO http{method=GET path=/about.html client_ip=192.168.2.173}: Request
+2025-10-21T09:03:00.329431Z  INFO http{method=GET path=/about.html client_ip=192.168.2.173}: Reponse status_line=HTTP/1.1 404 NOT FOUND
+2025-10-21T09:03:00.474837Z  INFO info="Worker 3 got a job, executing"
+2025-10-21T09:03:00.474858Z  INFO http{method=GET path=/about.html client_ip=192.168.2.173}: Request
+2025-10-21T09:03:00.475029Z  INFO http{method=GET path=/about.html client_ip=192.168.2.173}: Reponse status_line=HTTP/1.1 404 NOT FOUND
+2025-10-21T09:03:00.609242Z  INFO info="Worker 2 got a job, executing"
+2025-10-21T09:03:00.609327Z  INFO http{method=GET path=/about.html client_ip=192.168.2.173}: Request
+2025-10-21T09:03:00.609529Z  INFO http{method=GET path=/about.html client_ip=192.168.2.173}: Reponse status_line=HTTP/1.1 404 NOT FOUND
+2025-10-21T09:03:00.747196Z  INFO info="Worker 1 got a job, executing"
+2025-10-21T09:03:00.747307Z  INFO http{method=GET path=/about.html client_ip=192.168.2.173}: Request
+2025-10-21T09:03:00.747496Z  INFO http{method=GET path=/about.html client_ip=192.168.2.173}: Reponse status_line=HTTP/1.1 404 NOT FOUND
+2025-10-21T09:03:00.905532Z  INFO http{method=GET path=/about.html client_ip=192.168.2.173}: Request
+2025-10-21T09:03:00.905545Z  INFO info="Worker 0 got a job, executing"
+2025-10-21T09:03:00.905788Z  INFO http{method=GET path=/about.html client_ip=192.168.2.173}: Reponse status_line=HTTP/1.1 404 NOT FOUND
+2025-10-21T09:03:01.043451Z  INFO info="Worker 3 got a job, executing"
+2025-10-21T09:03:01.043556Z  INFO http{method=GET path=/about.html client_ip=192.168.2.173}: Request
+2025-10-21T09:03:01.043749Z  INFO http{method=GET path=/about.html client_ip=192.168.2.173}: Reponse status_line=HTTP/1.1 404 NOT FOUND
+2025-10-21T09:03:01.219136Z  INFO info="Worker 2 got a job, executing"
+2025-10-21T09:03:01.219189Z  INFO http{method=GET path=/about.html client_ip=192.168.2.173}: Request
+2025-10-21T09:03:01.219338Z  INFO http{method=GET path=/about.html client_ip=192.168.2.173}: Reponse status_line=HTTP/1.1 404 NOT FOUND
+2025-10-21T09:08:01.281095Z  INFO Server running...
+2025-10-21T09:08:04.045053Z  INFO info="Worker 0 got a job, executing"
+2025-10-21T09:08:04.045092Z  INFO info="Worker 1 got a job, executing"
+2025-10-21T09:08:04.046801Z  INFO http{method=GET path=/ client_ip=192.168.2.173}: Request
+2025-10-21T09:08:04.047083Z  INFO http{method=GET path=/ client_ip=192.168.2.173}: Reponse status_line=HTTP/1.1 200 OK
+2025-10-21T09:08:05.597814Z ERROR err="Connection error Request parse error"
+2025-10-21T09:08:05.887137Z  INFO info="Worker 2 got a job, executing"
+2025-10-21T09:08:05.887227Z  INFO info="Worker 3 got a job, executing"
+2025-10-21T09:08:05.888006Z  INFO http{method=GET path=/ client_ip=192.168.2.173}: Request
+2025-10-21T09:08:05.888219Z  INFO http{method=GET path=/ client_ip=192.168.2.173}: Reponse status_line=HTTP/1.1 200 OK
+2025-10-21T09:20:19.351441Z  INFO Server running...
+2025-10-21T09:20:28.865278Z  INFO info="Worker 0 got a job, executing"
+2025-10-21T09:20:28.865380Z  INFO info="Worker 1 got a job, executing"
+2025-10-21T09:20:28.865561Z  INFO http{method=GET path=/ client_ip=192.168.2.173}: Request
+2025-10-21T09:20:28.865829Z  INFO http{method=GET path=/ client_ip=192.168.2.173}: Reponse status_line=HTTP/1.1 200 OK
+2025-10-21T09:20:29.697282Z  INFO http{method=GET path=/ client_ip=192.168.2.173}: Request
+2025-10-21T09:20:29.697298Z  INFO info="Worker 3 got a job, executing"
+2025-10-21T09:20:29.697562Z  INFO http{method=GET path=/ client_ip=192.168.2.173}: Reponse status_line=HTTP/1.1 200 OK
+2025-10-21T09:20:29.858173Z  INFO http{method=GET path=/ client_ip=192.168.2.173}: Request
+2025-10-21T09:20:29.858271Z  INFO info="Worker 2 got a job, executing"
+2025-10-21T09:20:29.858414Z  INFO http{method=GET path=/ client_ip=192.168.2.173}: Reponse status_line=HTTP/1.1 200 OK
+2025-10-21T09:20:30.000774Z  INFO info="Worker 0 got a job, executing"
+2025-10-21T09:20:30.000881Z  INFO http{method=GET path=/ client_ip=192.168.2.173}: Request
+2025-10-21T09:20:30.001144Z  INFO http{method=GET path=/ client_ip=192.168.2.173}: Reponse status_line=HTTP/1.1 200 OK
+2025-10-21T09:20:32.749335Z  INFO info="Worker 1 got a job, executing"
+2025-10-21T09:20:37.370592Z  INFO http{method=GET path=/ client_ip=192.168.2.173}: Request
+2025-10-21T09:20:37.370826Z  INFO http{method=GET path=/ client_ip=192.168.2.173}: Reponse status_line=HTTP/1.1 200 OK
+2025-10-21T09:20:37.504175Z  INFO info="Worker 3 got a job, executing"
+2025-10-21T09:20:37.504261Z  INFO http{method=GET path=/ client_ip=192.168.2.173}: Request
+2025-10-21T09:20:37.504469Z  INFO http{method=GET path=/ client_ip=192.168.2.173}: Reponse status_line=HTTP/1.1 200 OK
+2025-10-21T09:20:40.719994Z  INFO info="Worker 2 got a job, executing"
+2025-10-21T09:20:43.890301Z  INFO http{method=GET path=/ client_ip=192.168.2.173}: Request
+2025-10-21T09:20:43.890473Z  INFO http{method=GET path=/ client_ip=192.168.2.173}: Reponse status_line=HTTP/1.1 200 OK
+2025-10-21T09:20:44.055847Z  INFO info="Worker 0 got a job, executing"
+2025-10-21T09:20:44.055875Z  INFO http{method=GET path=/ client_ip=192.168.2.173}: Request
+2025-10-21T09:20:44.056013Z  INFO http{method=GET path=/ client_ip=192.168.2.173}: Reponse status_line=HTTP/1.1 200 OK
+2025-10-21T09:25:25.629806Z ERROR err="Connection error Request parse error"
+2025-10-21T09:25:25.630362Z  INFO info="Worker 1 got a job, executing"
+2025-10-21T09:25:25.630511Z  INFO info="Worker 3 got a job, executing"
+2025-10-21T09:25:25.630832Z  INFO http{method=GET path=/ client_ip=192.168.2.173}: Request
+2025-10-21T09:25:25.630982Z  INFO http{method=GET path=/ client_ip=192.168.2.173}: Reponse status_line=HTTP/1.1 200 OK
+2025-10-21T09:25:25.756594Z  INFO info="Worker 2 got a job, executing"
+2025-10-21T09:25:25.756905Z  INFO http{method=GET path=/ client_ip=192.168.2.173}: Request
+2025-10-21T09:25:25.757073Z  INFO http{method=GET path=/ client_ip=192.168.2.173}: Reponse status_line=HTTP/1.1 200 OK
+2025-10-21T09:25:25.886038Z  INFO info="Worker 0 got a job, executing"
+2025-10-21T09:25:25.886184Z  INFO http{method=GET path=/ client_ip=192.168.2.173}: Request
+2025-10-21T09:25:25.886348Z  INFO http{method=GET path=/ client_ip=192.168.2.173}: Reponse status_line=HTTP/1.1 200 OK
+2025-10-21T09:25:26.012887Z  INFO info="Worker 1 got a job, executing"
+2025-10-21T09:25:26.013016Z  INFO http{method=GET path=/ client_ip=192.168.2.173}: Request
+2025-10-21T09:25:26.013186Z  INFO http{method=GET path=/ client_ip=192.168.2.173}: Reponse status_line=HTTP/1.1 200 OK
+2025-10-21T09:25:26.147387Z  INFO info="Worker 3 got a job, executing"
+2025-10-21T09:25:26.147478Z  INFO http{method=GET path=/ client_ip=192.168.2.173}: Request
+2025-10-21T09:25:26.147656Z  INFO http{method=GET path=/ client_ip=192.168.2.173}: Reponse status_line=HTTP/1.1 200 OK
+2025-10-21T09:25:29.861699Z  INFO info="Worker 2 got a job, executing"
+2025-10-21T09:25:29.861767Z  INFO http{method=GET path=/ client_ip=192.168.2.173}: Request
+2025-10-21T09:25:29.861930Z  INFO http{method=GET path=/ client_ip=192.168.2.173}: Reponse status_line=HTTP/1.1 200 OK
+2025-10-21T09:25:30.101315Z  INFO info="Worker 0 got a job, executing"
+2025-10-21T09:25:30.101498Z  INFO http{method=GET path=/ client_ip=192.168.2.173}: Request
+2025-10-21T09:25:30.101663Z  INFO http{method=GET path=/ client_ip=192.168.2.173}: Reponse status_line=HTTP/1.1 200 OK
+2025-10-21T09:25:30.253013Z  INFO info="Worker 1 got a job, executing"
+2025-10-21T09:25:30.253128Z  INFO http{method=GET path=/ client_ip=192.168.2.173}: Request
+2025-10-21T09:25:30.253321Z  INFO http{method=GET path=/ client_ip=192.168.2.173}: Reponse status_line=HTTP/1.1 200 OK
+2025-10-21T09:25:30.581868Z  INFO info="Worker 3 got a job, executing"
+2025-10-21T09:25:30.581985Z  INFO http{method=GET path=/ client_ip=192.168.2.173}: Request
+2025-10-21T09:25:30.582172Z  INFO http{method=GET path=/ client_ip=192.168.2.173}: Reponse status_line=HTTP/1.1 200 OK
+2025-10-21T09:25:30.771359Z  INFO info="Worker 2 got a job, executing"
+2025-10-21T09:25:30.771418Z  INFO http{method=GET path=/ client_ip=192.168.2.173}: Request
+2025-10-21T09:25:30.771582Z  INFO http{method=GET path=/ client_ip=192.168.2.173}: Reponse status_line=HTTP/1.1 200 OK
+2025-10-21T09:25:30.946990Z  INFO info="Worker 0 got a job, executing"
+2025-10-21T09:25:30.947054Z  INFO http{method=GET path=/ client_ip=192.168.2.173}: Request
+2025-10-21T09:25:30.947226Z  INFO http{method=GET path=/ client_ip=192.168.2.173}: Reponse status_line=HTTP/1.1 200 OK
+2025-10-21T09:25:31.429431Z  INFO info="Worker 1 got a job, executing"
+2025-10-21T09:25:31.429509Z  INFO http{method=GET path=/ client_ip=192.168.2.173}: Request
+2025-10-21T09:25:31.429681Z  INFO http{method=GET path=/ client_ip=192.168.2.173}: Reponse status_line=HTTP/1.1 200 OK
+2025-10-21T09:25:31.612545Z  INFO http{method=GET path=/ client_ip=192.168.2.173}: Request
+2025-10-21T09:25:31.612551Z  INFO info="Worker 3 got a job, executing"
+2025-10-21T09:25:31.612772Z  INFO http{method=GET path=/ client_ip=192.168.2.173}: Reponse status_line=HTTP/1.1 200 OK
+2025-10-21T09:25:31.787932Z  INFO info="Worker 2 got a job, executing"
+2025-10-21T09:25:31.787982Z  INFO http{method=GET path=/ client_ip=192.168.2.173}: Request
+2025-10-21T09:25:31.788167Z  INFO http{method=GET path=/ client_ip=192.168.2.173}: Reponse status_line=HTTP/1.1 200 OK
+2025-10-21T09:25:31.946834Z  INFO http{method=GET path=/ client_ip=192.168.2.173}: Request
+2025-10-21T09:25:31.946843Z  INFO info="Worker 0 got a job, executing"
+2025-10-21T09:25:31.947060Z  INFO http{method=GET path=/ client_ip=192.168.2.173}: Reponse status_line=HTTP/1.1 200 OK
+2025-10-21T09:25:32.115479Z  INFO info="Worker 1 got a job, executing"
+2025-10-21T09:25:32.115497Z  INFO http{method=GET path=/ client_ip=192.168.2.173}: Request
+2025-10-21T09:25:32.115671Z  INFO http{method=GET path=/ client_ip=192.168.2.173}: Reponse status_line=HTTP/1.1 200 OK
+2025-10-21T09:31:50.939087Z ERROR err="Connection error Request parse error"

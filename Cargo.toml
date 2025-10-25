@@ -1,0 +1,13 @@
+[package]
+name = "mt_webserver"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+crossbeam = "0.8.4"
+memmap2 = "0.9.8"
+thiserror = "2.0.17"
+threadpool = "1.8.1"
+tracing = "0.1.41"
+tracing-appender = "0.2.3"
+tracing-subscriber = "0.3.20"
