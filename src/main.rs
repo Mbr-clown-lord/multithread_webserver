@@ -35,7 +35,7 @@ fn main() {
 }
 
 fn run_server() -> Result<(), ServerError> {
-    let addr = "192.168.2.173:8080";
+    let addr = "127.0.0.1:8080";
     let listener = TcpListener::bind(addr)?;
 
     println!("Server running...");
